@@ -1,0 +1,52 @@
+{
+  "style_id": "19B",
+  "style_name": "California Common",
+  "aroma": "Typically showcases rustic, traditional American hops (often with woody, rustic or minty qualities) in moderate to high strength. Light fruitiness acceptable. Low to moderate caramel and/or toasty malt aromatics support the hops.",
+  "appearance": "Medium amber to light copper color. Generally clear. Moderate off-white head with good retention.",
+  "flavor": "Moderately malty with a pronounced hop bitterness. The malt character is usually toasty (not roasted) and caramelly. Low to moderately high hop flavor, usually showing rustic, traditional American hop qualities (often woody, rustic, minty). Finish fairly dry and crisp, with a lingering hop bitterness and a firm, grainy malt flavor. Light fruity esters are acceptable, but otherwise clean.",
+  "mouthfeel": "Medium-bodied. Medium to medium-high carbonation.",
+  "comments": "This style is narrowly defined around the prototypical Anchor Steam example, although allowing other typical ingredients of the era. Northern Brewer hops are not a strict requirement for the style; modern American and New World-type hops (especially citrusy ones) are inappropriate, however.",
+  "history": "American West Coast original, brewed originally as Steam Beer in the Gold Rush era. Large shallow open fermenters (coolships) were traditionally used to compensate for the absence of refrigeration and to take advantage of the cool ambient temperatures in the San Francisco Bay area. Fermented with a lager yeast, but one that was selected to ferment relatively clean beer at warmer temperatures. Modern versions are based on Anchor Brewing re-launching the style in the 1970s.",
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "north-america",
+    "traditional-style",
+    "amber-lager-family",
+    "bitter",
+    "hoppy"
+  ],
+  "category": "19",
+  "commercial_examples": [
+    "Anchor Steam",
+    "Flying Dog Old Scratch Amber Lager",
+    "Schlafly Pi Common",
+    "Steamworks Steam Engine Lager"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.054",
+      "low": "1.048"
+    },
+    "FG": {
+      "high": "1.014",
+      "low": "1.011"
+    },
+    "IBUs": {
+      "high": "45",
+      "low": "30"
+    },
+    "SRM": {
+      "high": "14",
+      "low": "10"
+    },
+    "ABV": {
+      "high": "5.5",
+      "low": "4.5"
+    }
+  },
+  "style_comparison": "Superficially similar to an American Amber Ale, but with specific choices for malt and hopping -- the hop flavor/aroma is traditional (not modern) American hops, malt flavors are more toasty, the hopping is always assertive, and a warm-fermented lager yeast is used. Less attenuated, less carbonated and less fruity than Australian Sparkling ale.",
+  "characteristic_ingredients": "Pale ale malt, non-citrusy hops (often Northern Brewer), small amounts of toasted malt and/or crystal malts. Lager yeast; however, some strains (often with the mention of \"California\" in the name) work better than others at the warmer fermentation temperatures (55 to 60 °F) typically used. Note that some German yeast strains produce inappropriate sulfury character.",
+  "overall_impression": "A lightly fruity beer with firm, grainy maltiness, interesting toasty and caramel flavors, and showcasing rustic, traditional American hop characteristics."
+}

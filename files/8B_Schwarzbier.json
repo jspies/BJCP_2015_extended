@@ -1,0 +1,54 @@
+{
+  "style_id": "8B",
+  "style_name": "Schwarzbier",
+  "aroma": "Low to moderate malt, with low aromatic malty sweetness and/or hints of roast malt often apparent. The malt can be clean and neutral or moderately rich and bready, and may have a hint of dark caramel. The roast character can be somewhat dark chocolate- or coffee-like but should never be burnt. A low spicy, floral, or herbal hop aroma is optional. Clean lager yeast character, although a light sulfur is possible.",
+  "appearance": "Medium to very dark brown in color, often with deep ruby to garnet highlights, yet almost never truly black. Very clear. Large, persistent, tan-colored head.",
+  "flavor": "Light to moderate malt flavor, which can have a clean, neutral character to a moderately rich, bread-malty quality. Light to moderate roasted malt flavors can give a bitter-chocolate palate that lasts into the finish, but which are never burnt. Medium-low to medium bitterness, which can last into the finish. Light to moderate spicy, floral, or herbal hop flavor. Clean lager character. Aftertaste tends to dry out slowly and linger, featuring hop bitterness with a complementary but subtle roastiness in the background. Some residual sweetness is acceptable but not required.",
+  "mouthfeel": "Medium-light to medium body. Moderate to moderately-high carbonation. Smooth. No harshness or astringency, despite the use of dark, roasted malts.",
+  "comments": "Literally means \"black beer\" in German. While sometimes called a \"black Pils,\" the beer is rarely as dark as black or as bitter as a Pils; don't expect strongly roasted, porter-like flavors.",
+  "history": "A regional specialty from Thuringia, Saxony and Franconia in Germany. History is a bit sketchy, but is suspected of being originally a top-fermented beer. Popularity grew after German reunification. Served as the inspiration for black lagers brewed in Japan.",
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "balanced",
+    "dark-lager-family"
+  ],
+  "category": "8",
+  "commercial_examples": [
+    "Devils Backbone Schwartz Bier",
+    "Einbecker Schwarzbier",
+    "Eisenbahn Dunkel",
+    "Köstritzer Schwarzbier",
+    "Mönchshof Schwarzbier",
+    "Nuezeller Original Badebier"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.052",
+      "low": "1.046"
+    },
+    "FG": {
+      "high": "1.016",
+      "low": "1.010"
+    },
+    "IBUs": {
+      "high": "30",
+      "low": "20"
+    },
+    "SRM": {
+      "high": "30",
+      "low": "17"
+    },
+    "ABV": {
+      "high": "5.4",
+      "low": "4.4"
+    }
+  },
+  "style_comparison": "In comparison with a Munich Dunkel, usually darker in color, drier on the palate, lighter in body, and with a noticeable (but not high) roasted malt edge to balance the malt base. Should not taste like an American Porter made with lager yeast. Drier, less malty, with less hop character than a Czech Dark Lager.",
+  "characteristic_ingredients": "German Munich malt and/or Pilsner malts for the base, supplemented by a judicious use of roasted malts (such as Carafa types) for the dark color and subtle roast flavors. Huskless dark roasted malts can add roast flavors without burnt flavors. German hop varieties and clean German lager yeasts are traditional.",
+  "overall_impression": "A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body, dryness, and lack of a harsh, burnt, or heavy aftertaste helps make this beer quite drinkable."
+}

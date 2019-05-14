@@ -1,0 +1,53 @@
+{
+  "style_id": "22D",
+  "style_name": "Wheatwine",
+  "aroma": "Hop aroma is mild and can represent just about any late hop aromatic. Moderate to moderately-strong bready, wheaty malt character, often with additional malt complexity such as honey and caramel. A light, clean, alcohol aroma may noted. Low to medium fruity notes may be apparent. Very low levels of diacetyl are acceptable but not required. Weizen yeast character (banana/clove) is inappropriate.",
+  "appearance": "Color ranges from gold to deep amber, often with garnet or ruby highlights. Low to medium off-white head. The head may have creamy texture, and good retention. Chill haze is allowable, but usually clears up as the beer gets warmer. High alcohol and viscosity may be visible in \"legs\" when beer is swirled in a glass.",
+  "flavor": "Moderate to moderately-high wheaty malt flavor, dominant in the flavor balance over any hop character. Low to moderate bready, toasty, caramel, or honey malt notes are a welcome complexity note, although not required. Hop flavor is low to medium, and can reflect any variety. Moderate to moderately-high fruitiness, often with a dried-fruit character. Hop bitterness may range from low to moderate; balance therefore ranges from malty to evenly balanced. Should not be syrupy and under-attenuated. Some oxidative or vinous flavors may be present, as are light alcohol notes that are clean and smooth but complex. A complementary, supportive oak character is welcome, but not required.",
+  "mouthfeel": "Medium-full to full bodied and chewy, often with a luscious, velvety texture. Low to moderate carbonation. Light to moderate smooth alcohol warming may also be present.",
+  "comments": "Dark malts should be used with restraint. Much of the color arises from a lengthy boil. Some commercial examples may be larger than the Vital Statistics, and some may not be brewed every year.",
+  "history": "A relatively recent American craft beer style that was first brewed at the Rubicon Brewing Company in 1988. Often a winter seasonal, vintage, or one-off release. Breweries frequently experiment with this style, leading to a range of interpretations.",
+  "tags": [
+    "very-high-strength",
+    "amber-color",
+    "top-fermented",
+    "north-america",
+    "craft-style",
+    "strong-ale-family",
+    "wheat-beer-family",
+    "balanced",
+    "hoppy"
+  ],
+  "category": "22",
+  "commercial_examples": [
+    "Rubicon Winter Wheat Wine",
+    "Two Brothers Bare Trees Weiss Wine",
+    "Smuttynose Wheat Wine",
+    "Portsmouth Wheat Wine"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.120",
+      "low": "1.080"
+    },
+    "FG": {
+      "high": "1.030",
+      "low": "1.016"
+    },
+    "IBUs": {
+      "high": "60",
+      "low": "30"
+    },
+    "SRM": {
+      "high": "15",
+      "low": "8"
+    },
+    "ABV": {
+      "high": "12.0",
+      "low": "8.0"
+    }
+  },
+  "style_comparison": "More than simply a wheat-based barleywine, many versions have very expressive fruity and hoppy notes, while others develop complexity through oak aging. Less emphasis on the hops than American Barleywine. Has roots in American Wheat Beer rather than any German wheat styles, so should not have any German weizen yeast character.",
+  "characteristic_ingredients": "Typically brewed with a combination of American two-row and American wheat. Style commonly uses 50% or more wheat malt. Any variety of hops may be used. May be oak-aged.",
+  "overall_impression": "A richly textured, high alcohol sipping beer with a significant grainy, bready flavor and sleek body. The emphasis is first on the bready, wheaty flavors with interesting complexity from malt, hops, fruity yeast character and alcohol complexity."
+}

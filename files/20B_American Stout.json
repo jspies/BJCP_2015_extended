@@ -1,0 +1,54 @@
+{
+  "style_id": "20B",
+  "style_name": "American Stout",
+  "aroma": "Moderate to strong aroma of roasted malts, often having a roasted coffee or dark chocolate quality. Burnt or charcoal aromas are acceptable at low levels. Medium to very low hop aroma, often with a citrusy or resiny character. Medium to no esters. Light alcohol-derived aromatics are also optional.",
+  "appearance": "Generally a jet black color, although some may appear very dark brown. Large, persistent head of light tan to light brown in color. Usually opaque.",
+  "flavor": "Moderate to very high roasted malt flavors, often tasting of coffee, roasted coffee beans, dark or bittersweet chocolate. May have the flavor of slightly burnt coffee grounds, but this character should not be prominent. Low to medium malt sweetness, often with rich chocolate or caramel flavors. Medium to high bitterness. Low to high hop flavor, generally citrusy or resiny. Low to no esters. Medium to dry finish, occasionally with a lightly burnt quality. Alcohol flavors can be present up to medium levels, but smooth.",
+  "mouthfeel": "Medium to full body. Can be somewhat creamy, particularly if a small amount of oats have been used to enhance mouthfeel. Can have a bit of roast-derived astringency, but this character should not be excessive. Medium-high to high carbonation. Light to moderately strong alcohol warmth, but smooth and not excessively hot.",
+  "comments": "Breweries express individuality through varying the roasted malt profile, malt sweetness and flavor, and the amount of finishing hops used. Generally has bolder roasted malt flavors and hopping than other traditional stouts (except Imperial Stouts).",
+  "history": "A modern craft beer and homebrew style that applied an aggressive American hoping regime to a strong traditional English or Irish stout. The homebrew version was previously known as West Coast Stout, which is a common naming scheme for a more highly-hopped beer.",
+  "tags": [
+    "high-strength",
+    "dark-color",
+    "top-fermented",
+    "north-america",
+    "craft-style",
+    "stout-family",
+    "bitter",
+    "roasty",
+    "hoppy"
+  ],
+  "category": "20",
+  "commercial_examples": [
+    "Avery Out of Bounds Stout",
+    "Deschutes Obsidian Stout",
+    "North Coast Old No. 38",
+    "Rogue Shakespeare Stout",
+    "Sierra Nevada Stout"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.075",
+      "low": "1.050"
+    },
+    "FG": {
+      "high": "1.022",
+      "low": "1.010"
+    },
+    "IBUs": {
+      "high": "75",
+      "low": "35"
+    },
+    "SRM": {
+      "high": "40",
+      "low": "30"
+    },
+    "ABV": {
+      "high": "7.0",
+      "low": "5.0"
+    }
+  },
+  "style_comparison": "Like a hoppy, bitter, strongly roasted Extra or Export Stout. Much more roast and body than a Black IPA. Bigger, stronger versions belong in the Russian Imperial Stout style. Stronger and more assertive, particularly in the dark malt/grain additions and hop character, than American Porter.",
+  "characteristic_ingredients": "Common American base malts and yeast. Varied use of dark and roasted malts, as well as caramel-type malts. Adjuncts such as oatmeal may be present in low quantities. American hop varieties.",
+  "overall_impression": "A fairly strong, highly roasted, bitter, hoppy dark stout. Has the body and dark flavors typical of stouts with a more aggressive American hop character and bitterness."
+}

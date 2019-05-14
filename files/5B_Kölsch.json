@@ -1,0 +1,54 @@
+{
+  "style_id": "5B",
+  "style_name": "Kölsch",
+  "aroma": "Low to very low malt aroma, with a grainy-sweet character. A pleasant, subtle fruit aroma from fermentation (apple, cherry or pear) is acceptable, but not always present. A low floral, spicy or herbal hop aroma is optional but not out of style. Some yeast strains may give a slight winy or sulfury character (this characteristic is also optional, but not a fault). Overall, the intensity of aromatics is fairly subtle but generally balanced, clean, and fresh.",
+  "appearance": "Very pale gold to light gold. Very clear (authentic commercial versions are filtered to a brilliant clarity). Has a delicate white head that may not persist.",
+  "flavor": "Soft, rounded palate comprised of a delicate flavor balance between soft yet attenuated malt, an almost imperceptible fruity sweetness from fermentation, and a medium-low to medium bitterness with a delicate dryness and slight crispness in the finish (but no harsh aftertaste). The malt tends to be grainy-sweet, possibly with a very light bready or honey quality. The hop flavor is variable, and can range from low to moderately-high; most are medium-low to medium intensity and have a floral, spicy, or herbal character. May have a malty-sweet impression at the start, but this is not required. No noticeable residual sweetness. May have a slightly winy, minerally, or sulfury accent that accentuates the dryness and flavor balance. A slight wheat taste is rare but not a fault. Otherwise, very clean.",
+  "mouthfeel": "Medium-light to medium body (most are medium-light). Medium to medium-high carbonation. Smooth and generally crisp and well-attenuated.",
+  "comments": "Characterized in Germany as a top-fermented, lagered beer. Each Köln brewery produces a beer of different character, and each interprets the *Kölsch Konvention* slightly differently. Allow for a range of variation within the style when judging. Note that drier versions may seem hoppier or more bitter than the IBU specifications might suggest. Due to its delicate flavor profile, Kölsch tends to have a relatively short shelf-life; older examples and imports can easily show some oxidation defects. Served in Köln in a tall, narrow 200ml glass called a *Stange*.",
+  "history": "Cologne, Germany (Köln) has a top-fermenting brewing tradition since the Middle Ages, but developed the beer now known as Kölsch in the late 1800s to combat encroaching bottom-fermented pale lagers. Kölsch is an appellation protected by the *Kölsch Konvention *(1986), and is restricted to the 20 or so breweries in and around Köln. The *Konvention* simply defines the beer as a \"light, highly attenuated, hop-accentuated, clear, top-fermenting *Vollbier*.\"",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-ale-family",
+    "balanced"
+  ],
+  "category": "5",
+  "commercial_examples": [
+    "Früh Kölsch",
+    "Gaffel Kölsch",
+    "Mühlen Kölsch",
+    "Reissdorf Kölsch",
+    "Sion Kölsch",
+    "Sünner Kölsch"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.050",
+      "low": "1.044"
+    },
+    "FG": {
+      "high": "1.011",
+      "low": "1.007"
+    },
+    "IBUs": {
+      "high": "30",
+      "low": "18"
+    },
+    "SRM": {
+      "high": "5",
+      "low": "3.5"
+    },
+    "ABV": {
+      "high": "5.2",
+      "low": "4.4"
+    }
+  },
+  "style_comparison": "To the untrained taster, easily mistaken for a cream ale or somewhat subtle Pils.",
+  "characteristic_ingredients": "Traditional German hops (Hallertau, Tettnang, Spalt or Hersbrucker). German Pils or pale malt. Attenuative, clean ale yeast. Up to 20% wheat malt may be used, but this is quite rare in authentic versions. Current commercial practice is to ferment warm, cold condition for a short period of time, and serve young.",
+  "overall_impression": "A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character. Subdued maltiness throughout leads into a pleasantly well-attenuated and refreshing finish. Freshness makes a huge difference with this beer, as the delicate character can fade quickly with age. Brilliant clarity is characteristic."
+}

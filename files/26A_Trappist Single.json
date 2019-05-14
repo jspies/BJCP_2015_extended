@@ -1,0 +1,51 @@
+{
+  "style_id": "26A",
+  "style_name": "Trappist Single",
+  "aroma": "Medium-low to medium-high Trappist yeast character, showing a fruity-spicy character along with medium-low to medium spicy or floral hops, occasionally enhanced by light herbal/citrusy spice additions. Low to medium-low grainy-sweet malt backdrop, which may have a light honey or sugar quality. Fruit expression can vary widely (citrus, pome fruit, stone fruit). Light spicy, yeast-driven phenolics found in the best examples. Bubblegum inappropriate.",
+  "appearance": "Pale yellow to medium gold color. Generally good clarity, with a moderate-sized, persistent, billowy white head with characteristic lacing.",
+  "flavor": "Fruity, hoppy, bitter, and dry. Initial malty-sweet impression, with a grainy-sweet soft malt palate, and a dry, hoppy finish. The malt may have a light honeyed biscuit or cracker impression. Moderate spicy or floral hop flavor. Esters can be citrus (orange, lemon, grapefruit), pome fruit (apple, pear), or stone fruit (apricot, peach). Light to moderate spicy, peppery, or clove phenolics. Bitterness rises towards the crisp, dry finish, with an aftertaste of light malt, moderate hops and yeast character.",
+  "mouthfeel": "Medium-light to medium body. Smooth. Medium-high to high carbonation, can be somewhat prickly. Should not have noticeable alcohol warmth.",
+  "comments": "Often not labeled or available outside the monastery, or infrequently brewed. Might also be called monk's beer or Brother's beer. Highly attenuated, generally 85% or higher.",
+  "history": "While Trappist breweries have a tradition of brewing a lower-strength beer as a monk's daily ration, the bitter, pale beer this style describes is a relatively modern invention reflecting current tastes. Westvleteren first brewed theirs in 1999, but replaced older lower-gravity products.",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermenting",
+    "western-europe",
+    "craft-style",
+    "bitter",
+    "hoppy"
+  ],
+  "category": "26",
+  "commercial_examples": [
+    "Achel 5° Blond",
+    "St. Bernardus Extra 4",
+    "Westmalle Extra",
+    "Westvleteren Blond"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.054",
+      "low": "1.044"
+    },
+    "FG": {
+      "high": "1.010",
+      "low": "1.004"
+    },
+    "IBUs": {
+      "high": "45",
+      "low": "25"
+    },
+    "SRM": {
+      "high": "5",
+      "low": "3"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "4.8"
+    }
+  },
+  "style_comparison": "Like a top-fermented Belgian/Trappist interpretation of a German Pils -- pale, hoppy, and well-attenuated, but showing prototypical Belgian yeast character. Has less sweetness, higher attenuation, less character malt, and is more hop-centered than a Belgian Pale Ale. More like a much smaller, more highly hopped tripel than a smaller Belgian Blond Ale.",
+  "characteristic_ingredients": "Pilsner malt, Belgian Trappist yeast, Saazer-type hops.",
+  "overall_impression": "A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate."
+}
