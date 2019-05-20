@@ -49,5 +49,13 @@
   },
   "style_comparison": "Like a Märzen with but with a balanced, sweet, smoky aroma and flavor and a somewhat darker color.",
   "characteristic_ingredients": "German Rauchmalz (beechwood-smoked Vienna-type malt) typically makes up 20-100% of the grain bill, with the remainder being German malts typically used in a Märzen. Some breweries adjust the color slightly with a bit of roasted malt. German lager yeast. German or Czech hops.",
-  "overall_impression": "An elegant, malty German amber lager with a balanced, complementary beechwood smoke character. Toasty-rich malt in aroma and flavor, restrained bitterness, low to high smoke flavor, clean fermentation profile, and an attenuated finish are characteristic."
+  "overall_impression": "An elegant, malty German amber lager with a balanced, complementary beechwood smoke character. Toasty-rich malt in aroma and flavor, restrained bitterness, low to high smoke flavor, clean fermentation profile, and an attenuated finish are characteristic.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 3.5,
+    "body_average": 3
+  }
 }

@@ -4,11 +4,8 @@ const parser    = require("xml2json");
 const fs        = require("fs");
 const path      = require("path");
 const commander = require("commander");
-const DIR       = "../../XML/BJCP_2015/xml/";
 const startI    = 1;
 const endI      = 26;
-
-const files  = fs.readdirSync(DIR);
 
 commander.version("0.0.1");
 commander
@@ -22,8 +19,15 @@ if (!commander.input) {
   process.exit(1);
 }
 
+const files  = fs.readdirSync(commander.input);
+
+let enhancements = {};
+if (commander.enhance) {
+  enhancements = JSON.parse(fs.readFileSync("./enhanced/enhancements.json"));
+}
+
 for(let currentFileIndex = startI - 1; currentFileIndex < endI; currentFileIndex++) {
-  const xml= fs.readFileSync(`${path.join(commander.input || DIR, files[currentFileIndex])}`, "utf8");
+  const xml= fs.readFileSync(`${path.join(commander.input, files[currentFileIndex])}`, "utf8");
 
   let json = parser.toJson(xml, {
     object: true
@@ -50,7 +54,7 @@ for(let currentFileIndex = startI - 1; currentFileIndex < endI; currentFileIndex
       for (let substyleIndex = 0; substyleIndex < style.substyle.length; substyleIndex++) {
         let substyle = style.substyle[substyleIndex];
         substyle.category = category.number;
-        substyle.style = style.style_id;
+        substyle.parent_style_id = style.style_id;
         substyle.tags = substyle.tags.tag;
 
         substyle.commercial_examples = substyle.commercialexamples.commercial_example;
@@ -73,7 +77,7 @@ for(let currentFileIndex = startI - 1; currentFileIndex < endI; currentFileIndex
         })
         delete substyle.commercialexamples;
 
-        fs.writeFileSync(`./files/${style.style_id}_${style.style_name}_${substyle.substyle_name}.json`, JSON.stringify(substyle, null, 2));
+        fs.writeFileSync(`./files/${style.style_id}_${style.style_name}_${substyle.substyle_name}.json`.replace(/\s/g, "_"), JSON.stringify(substyle, null, 2));
         
       }
     } else {
@@ -98,6 +102,12 @@ for(let currentFileIndex = startI - 1; currentFileIndex < endI; currentFileIndex
       }
     })
     
-    fs.writeFileSync(`./files/${style.style_id}_${style.style_name}.json`, JSON.stringify(style, null, 2));
+    if (enhancements[style.style_id]) {
+      style.enhancements = enhancements[style.style_id];
+      style.enhancements.carbonation_average = (style.enhancements.carbonation_low + style.enhancements.carbonation_high) / 2;
+      style.enhancements.body_average = (style.enhancements.body_low + style.enhancements.body_high) / 2;
+    }
+    
+    fs.writeFileSync(`./files/${style.style_id}_${style.style_name}.json`.replace(/\s/g, "_"), JSON.stringify(style, null, 2));
   }
 }

@@ -51,5 +51,13 @@
   },
   "style_comparison": "Less intense and less richly toasted than a Märzen. More rich-heavy in body than a Helles, with more hop flavor and higher alcohol. Less rich in malt intensity than a Maibock. The malt complexity is similar to a higher-gravity Czech Premium Pale Lager, although without the associated hops.",
   "characteristic_ingredients": "Majority Pils malt, but with some Vienna and/or Munich malt to increase maltiness. Differences in commercial examples are mostly due to different maltsters and yeast, not major grist differences.",
-  "overall_impression": "A smooth, clean, pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability, with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling."
+  "overall_impression": "A smooth, clean, pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability, with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 3,
+    "body_average": 3
+  }
 }

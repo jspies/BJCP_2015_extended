@@ -28,7 +28,7 @@
         "pale-lager-family"
       ],
       "category": "7",
-      "style": "7C",
+      "parent_style_id": "7C",
       "commercial_examples": [
         "Paulaner",
         "Paulaner Brauhaus",
@@ -85,7 +85,7 @@
         "amber-lager-family"
       ],
       "category": "7",
-      "style": "7C",
+      "parent_style_id": "7C",
       "commercial_examples": [
         "Greif",
         "Eichhorn",

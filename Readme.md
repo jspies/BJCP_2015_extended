@@ -7,7 +7,7 @@ This repository provides a script to translate the XML files to JSON. The files 
 #### Usage
 
 ```bash
-./xml2json path-to-files
+./xml2json -i path-to-files
 ```
 
 #### Options
