@@ -1,0 +1,16 @@
+Carbonation:
+  0: uncarbonated
+  1: low
+  2: moderately low
+  3: moderate/medium
+  4: moderate/medium high
+  5: high
+  6: very high
+
+Mouthfeel:
+  0: very light
+  1: low/light
+  2: medium low/light
+  3: medium
+  4: medium full
+  5: full

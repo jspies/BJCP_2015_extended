@@ -43,5 +43,13 @@
   },
   "style_comparison": "Eisbocks are not simply stronger doppelbocks; the name refers to the process of freezing and concentrating the beer and is *not* a statement on alcohol; some doppelbocks are stronger than Eisbocks. Not as thick, rich, or sweet as a Wheatwine.",
   "characteristic_ingredients": "Same as doppelbock. Commercial eisbocks are generally concentrated anywhere from 7% to 33% (by volume).",
-  "overall_impression": "A strong, full-bodied, rich, and malty dark German lager often with a viscous quality and strong flavors. Even though flavors are concentrated, the alcohol should be smooth and warming, not burning."
+  "overall_impression": "A strong, full-bodied, rich, and malty dark German lager often with a viscous quality and strong flavors. Even though flavors are concentrated, the alcohol should be smooth and warming, not burning.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 1,
+    "body_low": 5,
+    "body_high": 5,
+    "carbonation_average": 1,
+    "body_average": 5
+  }
 }

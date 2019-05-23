@@ -49,5 +49,13 @@
   },
   "style_comparison": "More than simply a wheat-based barleywine, many versions have very expressive fruity and hoppy notes, while others develop complexity through oak aging. Less emphasis on the hops than American Barleywine. Has roots in American Wheat Beer rather than any German wheat styles, so should not have any German weizen yeast character.",
   "characteristic_ingredients": "Typically brewed with a combination of American two-row and American wheat. Style commonly uses 50% or more wheat malt. Any variety of hops may be used. May be oak-aged.",
-  "overall_impression": "A richly textured, high alcohol sipping beer with a significant grainy, bready flavor and sleek body. The emphasis is first on the bready, wheaty flavors with interesting complexity from malt, hops, fruity yeast character and alcohol complexity."
+  "overall_impression": "A richly textured, high alcohol sipping beer with a significant grainy, bready flavor and sleek body. The emphasis is first on the bready, wheaty flavors with interesting complexity from malt, hops, fruity yeast character and alcohol complexity.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 4,
+    "body_high": 5,
+    "carbonation_average": 2,
+    "body_average": 4.5
+  }
 }

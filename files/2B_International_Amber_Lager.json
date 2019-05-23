@@ -1,0 +1,60 @@
+{
+  "style_id": "2B",
+  "style_name": "International Amber Lager",
+  "aroma": "Low to moderate malt aroma which can be grainy, with a very low to moderate caramel-sweet to toasty-malty aroma. Hop aroma can range from low to none with a mildly floral or spicy character. Clean lager profile. A slight DMS or corny aroma is acceptable.",
+  "appearance": "Golden-amber to reddish-copper color. Bright clarity. White to off-white foam stand which may not last.",
+  "flavor": "Low to moderate malt profile which can vary from dry to grainy-sweet. Low to moderate levels of caramel and toasty-bready notes can be evident. Low to medium-low corny sweetness is optional, but not a fault. Hop bitterness is low to moderate, and hop flavor is low to moderate with a spicy, herbal, or floral character. The balance can be fairly malty to nearly even, with the bitterness becoming more noticeable but not objectionable. The bitterness level can increase if the malt character increases to match. Clean fermentation profile. Finish is moderately dry with a moderately malty aftertaste.",
+  "mouthfeel": "Light to medium body. Medium to high carbonation. Smooth; some examples can be creamy.",
+  "comments": "A wide spectrum of mass-market Amber lagers developed either independently in various countries, or describing rather generic amber beers that may have had more historical relevance but who eventually changed into an indistinguishable product in modern times.",
+  "history": "Varies by country, but generally represents an adaptation of the mass-market International Lager or an evolution of indigenous styles into a more generic product.",
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "amber-lager-family",
+    "malty"
+  ],
+  "category": "2",
+  "commercial_examples": [
+    "Brooklyn Lager",
+    "Capital Winter Skål",
+    "Dos Equis Amber",
+    "Schell's Oktoberfest",
+    "Yuengling Lager"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.055",
+      "low": "1.042"
+    },
+    "IBUs": {
+      "high": "25",
+      "low": "8"
+    },
+    "FG": {
+      "high": "1.014",
+      "low": "1.008"
+    },
+    "SRM": {
+      "high": "14",
+      "low": "7"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "4.6"
+    }
+  },
+  "style_comparison": "Less well-developed malt flavor than a Vienna lager, often with an adjunct taste.",
+  "characteristic_ingredients": "Two-row or six-row base malt. Color malts such as victory, amber, etc. Caramel malt adjuncts. European or American hops or a combination of both.",
+  "overall_impression": "A well-attenuated malty amber lager with an interesting caramel or toast quality and restrained bitterness. Usually fairly well-attenuated, often with an adjunct quality. Smooth, easily-drinkable lager character.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 3,
+    "carbonation_average": 4,
+    "body_average": 2
+  }
+}

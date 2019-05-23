@@ -1,0 +1,68 @@
+{
+  "style_name": "Kellerbier",
+  "substyle_name": "Amber Kellerbier",
+  "paragraph": "*The original style of Kellerbier from the Franconia area of Germany. A much older style compared to the relatively more recent pale Helles-Style Kellerbier that is popular in the Munich area today.*",
+  "aroma": "Moderate intensity of German malt, typically rich, bready, somewhat toasty, with light bread crust notes. Moderately-low to moderate spicy peppery hop aroma. Very low to low diacetyl, occasionally low to moderately-low sulfur and very low green apple or other yeast-derived notes. Caramel, biscuity, or roasted malt aroma is inappropriate.",
+  "appearance": "Moderately cloudy to clear depending on age, but never extremely cloudy or murky. Gold to deep reddish-amber color. Off-white, creamy head. When served on cask, can have low carbonation and very low head.",
+  "flavor": "Initial malt flavor may suggest sweetness, but finish is moderately dry to dry, and slightly bitter. Distinctive and complex maltiness often includes a bready-toasty aspect. Hop bitterness is moderate to moderately high, and spicy or herbal hop flavor is low to moderately high. Balance can be either on the malt or hop side, but the finish is not sweet. Noticeable caramel or roasted malt flavors are inappropriate. Very low to low diacetyl. Possible very low green apple or other yeast-derived notes. Smooth, malty aftertaste.",
+  "mouthfeel": "Medium body, with a creamy texture and medium carbonation. Fully fermented, without a sweet or cloying impression.",
+  "comments": "The best examples of Amber Kellerbier are served only on tap at many of the small Franconia area breweries (as this is a beer best served fresh and the serving style being an important part of the style). Bottled versions are not likely to have the freshness, hop character and young beer notes exhibited by the draft versions.",
+  "history": "This was the classic, historical style before it was adapted in other areas. This original, older style of Kellerbier would have simply been beer served from local taverns that did not lager long enough to drop bright. Many breweries in Franconia would use some of this young beer during the summer months, for festivals such as the Annafest (est. 1840) in July in Forchheim, where it was traditional to drink directly from the lagering vessels.",
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermenting",
+    "central-europe",
+    "traditional-style",
+    "balanced",
+    "amber-lager-family"
+  ],
+  "category": "7",
+  "parent_style_id": "7C",
+  "commercial_examples": [
+    "Greif",
+    "Eichhorn",
+    "Nederkeller",
+    "Hebendanz",
+    "Buttenheimer Kaiserdom Kellerbier",
+    "Kulmbacher Monchshof Kellerbier",
+    "Leikeim Kellerbier",
+    "Löwenbräu Kellerbier",
+    "Mahr's Kellerbier",
+    "St. Georgen Kellerbier",
+    "Tucher Kellerbier Naturtrub"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.054",
+      "low": "1.048"
+    },
+    "FG": {
+      "high": "1.016",
+      "low": "1.012"
+    },
+    "IBUs": {
+      "high": "40",
+      "low": "25"
+    },
+    "SRM": {
+      "high": "17",
+      "low": "7"
+    },
+    "ABV": {
+      "high": "5.4",
+      "low": "4.8"
+    }
+  },
+  "style_comparison": "Most commonly, this style is a young, unfiltered, unpasteurized, hoppier version of Munich Helles or Märzen. Fränkische Schweiz versions can edge up to dark amber or brown.",
+  "characteristic_ingredients": "Grist varies, although traditional German versions emphasized Franconian pale and color malt. The notion of elegance is derived from the high-quality local ingredients, particularly the malts. Spalt or other typically spicy local hops are most common. Frugal Franconian brewers rarely used decoction brewing due to the cost of energy.",
+  "overall_impression": "A young, unfiltered, and unpasteurized beer that is between a Helles and Märzen in color, spicier in the hops with greater attenuation. Interpretations range in color and balance, but remain in the drinkable 4.8% ABV neighborhood. Balance ranges from the dry, spicy and pale-colored interpretations by St. Georgen and Löwenbräu of Buttenheim, to darker and maltier interpretations in the Fränkische Schweiz. This style is above all a method of producing simple drinkable beers for neighbors out of local ingredients to be served fresh. Balance with a focus on drinkability and digestibility is important.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 3,
+    "body_average": 3
+  }
+}

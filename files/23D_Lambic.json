@@ -43,5 +43,13 @@
   },
   "style_comparison": "Generally has a more simple sourness and complexity than a gueuze. Traditionally served uncarbonated from pitchers, while gueuze is bottled and very highly carbonated.",
   "characteristic_ingredients": "Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are neutral with little oak character, so don't expect a fresh or forward oak character -- more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including *Saccharomyces, Brettanomyces, Pediococcus *and *Lactobacillus* in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
-  "overall_impression": "A fairly sour, often moderately funky wild Belgian wheat beer with sourness taking the place of hop bitterness in the balance. Traditionally spontaneously fermented in the Brussels area and served uncarbonated, the refreshing acidity makes for a very pleasant café drink."
+  "overall_impression": "A fairly sour, often moderately funky wild Belgian wheat beer with sourness taking the place of hop bitterness in the balance. Traditionally spontaneously fermented in the Brussels area and served uncarbonated, the refreshing acidity makes for a very pleasant café drink.",
+  "enhancements": {
+    "carbonation_low": 0,
+    "carbonation_high": 2,
+    "body_low": 1,
+    "body_high": 3,
+    "carbonation_average": 1,
+    "body_average": 2
+  }
 }

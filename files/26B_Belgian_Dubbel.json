@@ -1,0 +1,62 @@
+{
+  "style_id": "26B",
+  "style_name": "Belgian Dubbel",
+  "aroma": "Complex, rich-sweet malty aroma, possibly with hints of chocolate, caramel and/or toast (but never roasted or burnt aromas). Moderate fruity esters (usually including raisins and plums, sometimes also dried cherries). Esters sometimes include banana or apple. Spicy phenols and higher alcohols are common (may include light clove and spice, peppery, rose-like and/or perfumy notes). Spicy qualities can be moderate to very low. Alcohol, if present, is soft and never hot or solventy. Low to no spicy, herbal, or floral hop aroma, typically absent. The malt is most prominent in the balance with esters and a touch of alcohol in support, blending together for a harmonious presentation.",
+  "appearance": "Dark amber to copper in color, with an attractive reddish depth of color. Generally clear. Large, dense, and long-lasting creamy off-white head.",
+  "flavor": "Similar qualities as aroma. Rich, complex medium to medium-full rich-sweet malt flavor on the palate yet finishes moderately dry. Complex malt, ester, alcohol and phenol interplay (raisiny flavors are common; dried fruit flavors are welcome; clove or pepper spiciness is optional). Balance is always toward the malt. Medium-low bitterness that doesn't persist into the aftertaste. Low spicy, floral, or herbal hop flavor is optional and not usually present.",
+  "mouthfeel": "Medium-full body. Medium-high carbonation, which can influence the perception of body. Low alcohol warmth. Smooth, never hot or solventy.",
+  "comments": "Most commercial examples are in the 6.5 - 7% ABV range. Traditionally bottle-conditioned (or *refermented in the bottle*).",
+  "history": "Originated at monasteries in the Middle Ages, and was revived in the mid-1800s after the Napoleonic era.",
+  "tags": [
+    "high-strength",
+    "amber-color",
+    "top-fermented",
+    "western-europe",
+    "traditional-style",
+    "malty"
+  ],
+  "category": "26",
+  "commercial_examples": [
+    "Affligem Dubbel",
+    "Chimay Première",
+    "Corsendonk Pater",
+    "Grimbergen Double",
+    "La Trappe Dubbel",
+    "St. Bernardus Pater 6",
+    "Trappistes Rochefort 6",
+    "Westmalle Dubbel"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.075",
+      "low": "1.062"
+    },
+    "FG": {
+      "high": "1.018",
+      "low": "1.008"
+    },
+    "IBUs": {
+      "high": "25",
+      "low": "15"
+    },
+    "SRM": {
+      "high": "17",
+      "low": "10"
+    },
+    "ABV": {
+      "high": "7.6",
+      "low": "6.0"
+    }
+  },
+  "style_comparison": "Should not be as malty as a bock and should not have crystal malt-type sweetness. Similar in strength and balance as a Belgian Blond, but with a richer malt and ester profile. Less strong and intense as a Belgian Dark Strong Ale.",
+  "characteristic_ingredients": "Belgian yeast strains prone to production of higher alcohols, esters, and phenolics are commonly used. Impression of complex grain bill, although traditional versions are typically Belgian Pils malt with caramelized sugar syrup or other unrefined sugars providing much of the character. Saazer-type, English-type or Styrian Goldings hops commonly used. No spices are traditionally used, although restrained use is allowable (background strength only).",
+  "overall_impression": "A deep reddish-copper, moderately strong, malty, complex Trappist ale with rich malty flavors, dark or dried fruit esters, and light alcohol blended together in a malty presentation that still finishes fairly dry.",
+  "enhancements": {
+    "carbonation_low": 4,
+    "carbonation_high": 4,
+    "body_low": 4,
+    "body_high": 4,
+    "carbonation_average": 4,
+    "body_average": 4
+  }
+}

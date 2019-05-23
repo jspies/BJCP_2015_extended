@@ -55,5 +55,13 @@
   },
   "style_comparison": "More complex and carbonated than a lambic. The sourness isn't necessarily higher, but it tends to have more of a well-developed wild character.",
   "characteristic_ingredients": "Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are old and have little oak character, so don't expect a fresh or forward oak character -- more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
-  "overall_impression": "A complex, pleasantly sour but balanced wild Belgian wheat beer that is highly carbonated and very refreshing. The spontaneous fermentation character can provide a very interesting complexity, with a wide range of wild barnyard, horse blanket, or leather characteristics intermingling with citrusy-fruity flavors and acidity."
+  "overall_impression": "A complex, pleasantly sour but balanced wild Belgian wheat beer that is highly carbonated and very refreshing. The spontaneous fermentation character can provide a very interesting complexity, with a wide range of wild barnyard, horse blanket, or leather characteristics intermingling with citrusy-fruity flavors and acidity.",
+  "enhancements": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2,
+    "carbonation_average": 5,
+    "body_average": 1.5
+  }
 }

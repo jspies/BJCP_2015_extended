@@ -1,0 +1,63 @@
+{
+  "style_id": "16A",
+  "style_name": "Sweet Stout",
+  "aroma": "Mild roasted grain aroma, sometimes with coffee and/or chocolate notes. An impression of cream-like sweetness often exists. Fruitiness can be low to moderately high. Diacetyl low to none. Hop aroma low to none, with floral or earthy notes.",
+  "appearance": "Very dark brown to black in color. Can be opaque (if not, it should be clear). Creamy tan to brown head.",
+  "flavor": "Dark roasted grain/malt impression with coffee and/or chocolate flavors dominate the palate. Hop bitterness is moderate. Medium to high sweetness provides a counterpoint to the roasted character and hop bitterness, and lasts into the finish. Low to moderate fruity esters. Diacetyl low to none. The balance between dark grains/malts and sweetness can vary, from quite sweet to moderately dry and somewhat roasty.",
+  "mouthfeel": "Medium-full to full-bodied and creamy. Low to moderate carbonation. High residual sweetness from unfermented sugars enhances the full-tasting mouthfeel.",
+  "comments": "Gravities are low in England, higher in exported and US products. Variations exist, with the level of residual sweetness, the intensity of the roast character, and the balance between the two being the variables most subject to interpretation. Some versions in England are very sweet (low attenuation) and also low in ABV (Tennent's Sweetheart Stout is 2%), but is an outlier compared to the other examples. These guidelines mostly describe the higher gravity, more balanced, export versions rather than the low alcohol, very sweet versions that many find quite difficult to drink.",
+  "history": "An English style of stout developed in the early 1900s. Historically known as \"Milk\" or \"Cream\" stouts, legally this designation is no longer permitted in England (but is acceptable elsewhere). The \"milk\" name is derived from the use of lactose, or milk sugar, as a sweetener. Originally marketed as a tonic for invalids and nursing mothers.",
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "top-fermented",
+    "british-isles",
+    "traditional-style",
+    "stout-family",
+    "malty",
+    "roasty",
+    "sweet"
+  ],
+  "category": "16",
+  "commercial_examples": [
+    "Bristol Beer Factory Milk Stout",
+    "Left Hand Milk Stout",
+    "Lancaster Milk Stout",
+    "Mackeson's XXX Stout",
+    "Marston's Oyster Stout",
+    "Samuel Adams Cream Stout"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.060",
+      "low": "1.044"
+    },
+    "FG": {
+      "high": "1.024",
+      "low": "1.012"
+    },
+    "IBUs": {
+      "high": "40",
+      "low": "20"
+    },
+    "SRM": {
+      "high": "40",
+      "low": "30"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "4.0"
+    }
+  },
+  "style_comparison": "Much sweeter and less bitter than other stouts (except the stronger tropical stout). The roast character is mild, not burnt like other stouts. Somewhat similar in balance to oatmeal stouts, albeit with more sweetness.",
+  "characteristic_ingredients": "The sweetness in most Sweet Stouts comes from a lower bitterness level than most other stouts and a high percentage of unfermentable dextrins. Lactose, an unfermentable sugar, is frequently added to provide additional residual sweetness. Base of pale malt, and may use roasted barley, black malt, chocolate malt, crystal malt, and adjuncts such as maize or brewing sugars.",
+  "overall_impression": "A very dark, sweet, full-bodied, slightly roasty ale that can suggest coffee-and-cream, or sweetened espresso.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 4,
+    "body_high": 5,
+    "carbonation_average": 2,
+    "body_average": 4.5
+  }
+}

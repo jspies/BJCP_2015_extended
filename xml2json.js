@@ -77,6 +77,12 @@ for(let currentFileIndex = startI - 1; currentFileIndex < endI; currentFileIndex
         })
         delete substyle.commercialexamples;
 
+        if (enhancements[substyle.parent_style_id]) { 
+          substyle.enhancements = enhancements[substyle.parent_style_id][substyle.substyle_name.replace(/\s/g, "_")];
+          substyle.enhancements.carbonation_average = (substyle.enhancements.carbonation_low + substyle.enhancements.carbonation_high) / 2;
+          substyle.enhancements.body_average = (substyle.enhancements.body_low + substyle.enhancements.body_high) / 2;
+        }
+
         fs.writeFileSync(`./files/${style.style_id}_${style.style_name}_${substyle.substyle_name}.json`.replace(/\s/g, "_"), JSON.stringify(substyle, null, 2));
         
       }

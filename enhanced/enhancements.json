@@ -1,0 +1,552 @@
+{
+  "1A": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 0,
+    "body_high": 0
+  },
+  "1B": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2
+  },
+  "1C": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "1D": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "2A": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "2B": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "2C": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2
+  },
+  "3A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "3B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "3C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "3D": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "4A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "4B": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "4C": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "5A": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 0,
+    "body_high": 1
+  },
+  "5B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "5C": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "5D": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 2
+  },
+  "6A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "6B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "6C": {
+    "carbonation_low": 2,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "7A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "7B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "7C": {
+    "Amber_Kellerbier": {
+      "carbonation_low": 3,
+      "carbonation_high": 3,
+      "body_low": 3,
+      "body_high": 3
+    },
+    "Pale_Kellerbier": {
+      "carbonation_low": 1,
+      "carbonation_high": 3,
+      "body_low": 3,
+      "body_high": 3
+    }
+  },
+  "8A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "8B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "9A": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "9B": {
+    "carbonation_low": 1,
+    "carbonation_high": 1,
+    "body_low": 5,
+    "body_high": 5
+  },
+  "9C": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 5,
+    "body_high": 5
+  },
+  "10A": {
+    "carbonation_low": 5,
+    "carbonation_high": 6,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "10B": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 4
+  },
+  "10C": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "11A": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 1,
+    "body_high": 2
+  },
+  "11B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "11C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 4
+  },
+  "12A": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "12B": {
+    "carbonation_low": 5,
+    "carbonation_high": 6,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "12C": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "13A": {
+    "carbonation_low": 1,
+    "carbonation_high": 2,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "13B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "13C": {
+    "carbonation_low": 2,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "14A": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "14B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "14C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "15A": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "15B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 4
+  },
+  "15C": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "16A": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "16B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "16C": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "16D": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "17A": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 5
+  },
+  "17B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 5
+  },
+  "17C": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 5
+  },
+  "17D": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 5,
+    "body_high": 5
+  },
+  "18A": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "18B": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "19A": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "19B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "19C": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "20A": {
+    "carbonation_low": 2,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "20B": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 3,
+    "body_high": 5
+  },
+  "20C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 5,
+    "body_high": 5
+  },
+  "21A": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "21B": {
+    "Belgian_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 5,
+      "body_low": 1,
+      "body_high": 3
+    },
+    "Black_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 3,
+      "body_low": 2,
+      "body_high": 3
+    },
+    "Brown_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 4,
+      "body_low": 2,
+      "body_high": 3
+    },
+    "Red_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 4,
+      "body_low": 2,
+      "body_high": 3
+    },
+    "Rye_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 4,
+      "body_low": 2,
+      "body_high": 3
+    },
+    "White_IPA": {
+      "carbonation_low": 3,
+      "carbonation_high": 4,
+      "body_low": 2,
+      "body_high": 2
+    }
+  },
+  "22A": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "22B": {
+    "carbonation_low": 2,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 5
+  },
+  "22C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 5,
+    "body_high": 5
+  },
+  "22D": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 4,
+    "body_high": 5
+  },
+  "23A": {
+    "carbonation_low": 6,
+    "carbonation_high": 6,
+    "body_low": 1,
+    "body_high": 1
+  },
+  "23B": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "23C": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 4
+  },
+  "23D": {
+    "carbonation_low": 0,
+    "carbonation_high": 2,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "23E": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2
+  },
+  "23F": {
+    "carbonation_low": 1,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2
+  },
+  "24A": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "24B": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 5
+  },
+  "24C": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "25A": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 3,
+    "body_high": 3
+  },
+  "25B": {
+    "carbonation_low": 6,
+    "carbonation_high": 6,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "25C": {
+    "carbonation_low": 6,
+    "carbonation_high": 6,
+    "body_low": 1,
+    "body_high": 3
+  },
+  "26A": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "26B": {
+    "carbonation_low": 4,
+    "carbonation_high": 4,
+    "body_low": 4,
+    "body_high": 4
+  },
+  "26C": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3
+  },
+  "26D": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 4
+  }
+}

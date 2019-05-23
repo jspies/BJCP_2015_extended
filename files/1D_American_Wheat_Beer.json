@@ -1,0 +1,59 @@
+{
+  "style_id": "1D",
+  "style_name": "American Wheat Beer",
+  "aroma": "Low to moderate grainy, bready, or doughy wheat character. A light to moderate malty sweetness is acceptable. Esters can be moderate to none, although should reflect relatively neutral yeast strains; banana is inappropriate. Hop aroma may be low to moderate, and can have a citrusy, spicy, floral, or fruity character. No clove phenols.",
+  "appearance": "Usually pale yellow to gold. Clarity may range from brilliant to hazy with yeast approximating the German weissbier style of beer. Big, long-lasting white head.",
+  "flavor": "Light to moderately-strong bready, doughy, or grainy wheat flavor, which can linger into the finish. May have a moderate malty sweetness or finish quite dry. Low to moderate hop bitterness, which sometimes lasts into the finish. Balance is usually even, but may be slightly bitter. Low to moderate hop flavor (citrusy, spicy, floral, or fruity). Esters can be moderate to none, but should not include banana. No clove phenols. May have a slightly crisp finish.",
+  "mouthfeel": "Medium-light to medium body. Medium-high to high carbonation. Slight creaminess is optional; wheat beers sometimes have a soft, ‘fluffy' impression.",
+  "comments": "Different variations exist, from an easy-drinking fairly sweet beer to a dry, aggressively-hopped beer with a strong wheat flavor. American rye beers should be entered in the Alternative Fermentables specialty category.",
+  "history": "An American craft beer adaptation of the German weissbier style using a cleaner yeast and more hops, first widely popularized by Widmer in the mid-1980s.",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "any-fermentation",
+    "north-america",
+    "craft-style",
+    "wheat-beer-family",
+    "balanced"
+  ],
+  "category": "1",
+  "commercial_examples": [
+    "Bell's Oberon",
+    "Boulevard Unfiltered Wheat Beer",
+    "Goose Island 312 Urban Wheat Ale",
+    "Widmer Hefeweizen"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.055",
+      "low": "1.040"
+    },
+    "IBUs": {
+      "high": "30",
+      "low": "15"
+    },
+    "FG": {
+      "high": "1.013",
+      "low": "1.008"
+    },
+    "SRM": {
+      "high": "6",
+      "low": "3"
+    },
+    "ABV": {
+      "high": "5.5",
+      "low": "4.0"
+    }
+  },
+  "style_comparison": "More hop character and less yeast character than German weissbier. Never with the banana and clove character of German weissbier. Generally can have the same range and balance as Blonde Ales, but with a wheat character as the primary malt flavor.",
+  "characteristic_ingredients": "Clean American ale or lager yeast (German weissbier yeast is inappropriate). Large proportion of wheat malt (often 30-50%, which is lower than is typical in German weissbiers). American, German, or New World hops are typical.",
+  "overall_impression": "Refreshing wheat beers that can display more hop character and less yeast character than their German cousins. A clean fermentation character allows bready, doughy, or grainy wheat flavors to be complemented by hop flavor and bitterness rather than yeast qualities.",
+  "enhancements": {
+    "carbonation_low": 4,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 4.5,
+    "body_average": 2.5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "style_name": "Specialty IPA",
+  "substyle_name": "White IPA",
+  "aroma": "Moderate fruity esters -- banana, citrus, perhaps apricot. May have light to moderate spice aroma such as coriander or pepper from actual spice additions and/or Belgian yeast. Hop aroma is moderately-low to medium, usually American or New World type with stone fruit, citrus and tropical aromas. Esters and spices may reduce hop aroma perception. Light clove-like phenolics may be present.",
+  "appearance": "Pale to deep golden color, typically hazy. Moderate to large, dense white head that persists.",
+  "flavor": "Light malt flavor, perhaps a bit bready. Fruity esters are moderate to high, with citrus flavors similar to grapefruit and orange, or stone fruit like apricot. Sometimes banana-like flavors are present. Hop flavor is medium-low to medium-high with citrusy or fruity aspects. Some spicy clove-like flavors from Belgian yeast may be present. Coriander and orange peel flavors may be found as well. Bitterness is high which leads to a moderately dry, refreshing finish.",
+  "mouthfeel": "Medium-light body with medium to medium-high carbonation. Typically no astringency, although highly spiced examples may exhibit a light astringency which is not distracting.",
+  "comments": "A craft beer interpretation of American IPA crossed with a witbier",
+  "history": "American craft brewers developed the style as a late winter/spring seasonal beer to appeal to Wit and IPA drinkers alike.",
+  "tags": [
+    "high-strength",
+    "pale-color",
+    "top-fermented",
+    "north-america",
+    "craft-style",
+    "ipa-family",
+    "specialty-family",
+    "bitter",
+    "hoppy",
+    "spice"
+  ],
+  "category": "21",
+  "parent_style_id": "21B",
+  "commercial_examples": [
+    "Blue Point White IPA",
+    "Deschutes Chainbreaker IPA",
+    "Harpoon The Long Thaw",
+    "New Belgium Accumulation"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.065",
+      "low": "1.056"
+    },
+    "FG": {
+      "high": "1.016",
+      "low": "1.010"
+    },
+    "IBUs": {
+      "high": "70",
+      "low": "40"
+    },
+    "SRM": {
+      "high": "8",
+      "low": "5"
+    },
+    "ABV": {
+      "high": "7.0",
+      "low": "5.5"
+    }
+  },
+  "style_comparison": "Similar to a Belgian Wit style except highly hopped to the level of an American IPA. Bitter and hoppy like the IPA but fruity, spicy and light like the Wit. Typically the hop aroma and flavor are not as prominent as in an American IPA.",
+  "characteristic_ingredients": "Pale and wheat malts, Belgian yeast, citrusy American type hops.",
+  "overall_impression": "A fruity, spicy, refreshing version of an American IPA, but with a lighter color, less body, and featuring either the distinctive yeast and/or spice additions typical of a Belgian witbier.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 2,
+    "carbonation_average": 3.5,
+    "body_average": 2
+  }
+}

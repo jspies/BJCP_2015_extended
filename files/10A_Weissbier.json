@@ -47,5 +47,13 @@
     }
   },
   "characteristic_ingredients": "By German brewing tradition, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is typically Pilsner malt. A decoction mash is traditional, although modern brewers typically don't follow this practice. Weizen ale yeast produces the typical spicy and fruity character, although high fermentation temperatures can affect the balance and produce off-flavors.",
-  "overall_impression": "A pale, refreshing German wheat beer with high carbonation, dry finish, a fluffy mouthfeel, and a distinctive banana-and-clove yeast character."
+  "overall_impression": "A pale, refreshing German wheat beer with high carbonation, dry finish, a fluffy mouthfeel, and a distinctive banana-and-clove yeast character.",
+  "enhancements": {
+    "carbonation_low": 5,
+    "carbonation_high": 6,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 5.5,
+    "body_average": 2.5
+  }
 }

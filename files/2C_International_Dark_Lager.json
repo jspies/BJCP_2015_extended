@@ -1,0 +1,62 @@
+{
+  "style_id": "2C",
+  "style_name": "International Dark Lager",
+  "aroma": "Little to no malt aroma; may have a light corn character. Medium-low to no roast and caramel malt aroma. Hop aroma may range from none to light spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault. A light amount of DMS or corn aroma is not a fault.",
+  "appearance": "Deep amber to dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is beige to light tan in color.",
+  "flavor": "Low to medium malty sweetness with medium-low to no caramel and/or roasted malt flavors (and may include hints of coffee, molasses or cocoa). Hop flavor ranges from none to low levels, and is typically floral, spicy, or herbal. Low to medium hop bitterness. May have a very light fruitiness. Moderately crisp finish. The balance is typically somewhat malty. Burnt or moderately strong roasted malt flavors are a defect.",
+  "mouthfeel": "Light to medium-light body. Smooth with a light creaminess. Medium to high carbonation.",
+  "comments": "A broad range of international lagers that are darker than pale, and not assertively bitter and/or roasted.",
+  "history": "Darker versions of International Pale Lagers often created by the same large, industrial breweries and meant to appeal to a broad audience. Often either a colored or sweetened adaptation of the standard pale industrial lager, or a more broadly accessible (and inexpensive) version of more traditional dark lagers.",
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "dark-lager-family",
+    "malty"
+  ],
+  "category": "2",
+  "commercial_examples": [
+    "Baltika #4 Original",
+    "Devils Backbone Old Virginia Dark",
+    "Dixie Blackened Voodoo",
+    "Saint Pauli Girl Dark",
+    "San Miguel Dark",
+    "Session Black Dark Lager",
+    "Shiner Bock"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.056",
+      "low": "1.044"
+    },
+    "IBUs": {
+      "high": "20",
+      "low": "8"
+    },
+    "FG": {
+      "high": "1.012",
+      "low": "1.008"
+    },
+    "SRM": {
+      "high": "22",
+      "low": "14"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "4.2"
+    }
+  },
+  "style_comparison": "Less flavor and richness than Munich Dunkel, Schwarzbier, or other dark lagers. Frequently uses adjuncts, as is typical of other International Lagers.",
+  "characteristic_ingredients": "Two- or six-row barley, corn, rice, or sugars as adjuncts. Light use of caramel and darker malts. Commercial versions may use coloring agents.",
+  "overall_impression": "A darker and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 2,
+    "carbonation_average": 4,
+    "body_average": 1.5
+  }
+}

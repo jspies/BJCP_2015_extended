@@ -50,5 +50,13 @@
   },
   "style_comparison": "In comparison with a Munich Dunkel, usually darker in color, drier on the palate, lighter in body, and with a noticeable (but not high) roasted malt edge to balance the malt base. Should not taste like an American Porter made with lager yeast. Drier, less malty, with less hop character than a Czech Dark Lager.",
   "characteristic_ingredients": "German Munich malt and/or Pilsner malts for the base, supplemented by a judicious use of roasted malts (such as Carafa types) for the dark color and subtle roast flavors. Huskless dark roasted malts can add roast flavors without burnt flavors. German hop varieties and clean German lager yeasts are traditional.",
-  "overall_impression": "A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body, dryness, and lack of a harsh, burnt, or heavy aftertaste helps make this beer quite drinkable."
+  "overall_impression": "A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body, dryness, and lack of a harsh, burnt, or heavy aftertaste helps make this beer quite drinkable.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 3.5,
+    "body_average": 2.5
+  }
 }

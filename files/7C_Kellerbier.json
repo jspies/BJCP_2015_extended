@@ -63,7 +63,15 @@
       },
       "style_comparison": "Most commonly, a young, unfiltered and unpasteurized version of a Munich Helles, though it can be a young, unfiltered and unpasteurized version of other golden German lagers, such as a Pilsner or a seasonal golden lager made specifically for serving young.",
       "characteristic_ingredients": "Pilsner malt, German hops, German lager yeast; same as a Munich Helles.",
-      "overall_impression": "A young, fresh Helles, so while still a malty, fully-attenuated Pils malt showcase, the hop character (aroma, flavor and bitterness) is more pronounced, and the beer is cloudy, often with some level of diacetyl, and possibly has some green apple and/or other yeast-derived notes. As with the traditional Helles, the Keller version is still a beer intended to be drunk by the liter, so overall it should remain a light, refreshing, easy drinking golden lager."
+      "overall_impression": "A young, fresh Helles, so while still a malty, fully-attenuated Pils malt showcase, the hop character (aroma, flavor and bitterness) is more pronounced, and the beer is cloudy, often with some level of diacetyl, and possibly has some green apple and/or other yeast-derived notes. As with the traditional Helles, the Keller version is still a beer intended to be drunk by the liter, so overall it should remain a light, refreshing, easy drinking golden lager.",
+      "enhancements": {
+        "carbonation_low": 1,
+        "carbonation_high": 3,
+        "body_low": 3,
+        "body_high": 3,
+        "carbonation_average": 2,
+        "body_average": 3
+      }
     },
     {
       "style_name": "Kellerbier",
@@ -123,8 +131,36 @@
       },
       "style_comparison": "Most commonly, this style is a young, unfiltered, unpasteurized, hoppier version of Munich Helles or Märzen. Fränkische Schweiz versions can edge up to dark amber or brown.",
       "characteristic_ingredients": "Grist varies, although traditional German versions emphasized Franconian pale and color malt. The notion of elegance is derived from the high-quality local ingredients, particularly the malts. Spalt or other typically spicy local hops are most common. Frugal Franconian brewers rarely used decoction brewing due to the cost of energy.",
-      "overall_impression": "A young, unfiltered, and unpasteurized beer that is between a Helles and Märzen in color, spicier in the hops with greater attenuation. Interpretations range in color and balance, but remain in the drinkable 4.8% ABV neighborhood. Balance ranges from the dry, spicy and pale-colored interpretations by St. Georgen and Löwenbräu of Buttenheim, to darker and maltier interpretations in the Fränkische Schweiz. This style is above all a method of producing simple drinkable beers for neighbors out of local ingredients to be served fresh. Balance with a focus on drinkability and digestibility is important."
+      "overall_impression": "A young, unfiltered, and unpasteurized beer that is between a Helles and Märzen in color, spicier in the hops with greater attenuation. Interpretations range in color and balance, but remain in the drinkable 4.8% ABV neighborhood. Balance ranges from the dry, spicy and pale-colored interpretations by St. Georgen and Löwenbräu of Buttenheim, to darker and maltier interpretations in the Fränkische Schweiz. This style is above all a method of producing simple drinkable beers for neighbors out of local ingredients to be served fresh. Balance with a focus on drinkability and digestibility is important.",
+      "enhancements": {
+        "carbonation_low": 3,
+        "carbonation_high": 3,
+        "body_low": 3,
+        "body_high": 3,
+        "carbonation_average": 3,
+        "body_average": 3
+      }
     }
   ],
-  "entry_instructions": "The entrant **must** specify whether the entry is a *Pale Kellerbier* (based on Helles) or an *Amber Kellerbier *(based on Märzen). The entrant may specify another type of Kellerbier based on other base styles such as Pils, Bock, Schwarzbier, but should supply a style description for judges."
+  "entry_instructions": "The entrant **must** specify whether the entry is a *Pale Kellerbier* (based on Helles) or an *Amber Kellerbier *(based on Märzen). The entrant may specify another type of Kellerbier based on other base styles such as Pils, Bock, Schwarzbier, but should supply a style description for judges.",
+  "enhancements": {
+    "Amber_Kellerbier": {
+      "carbonation_low": 3,
+      "carbonation_high": 3,
+      "body_low": 3,
+      "body_high": 3,
+      "carbonation_average": 3,
+      "body_average": 3
+    },
+    "Pale_Kellerbier": {
+      "carbonation_low": 1,
+      "carbonation_high": 3,
+      "body_low": 3,
+      "body_high": 3,
+      "carbonation_average": 2,
+      "body_average": 3
+    },
+    "carbonation_average": null,
+    "body_average": null
+  }
 }

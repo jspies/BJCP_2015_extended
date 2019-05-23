@@ -82,5 +82,13 @@
   },
   "style_comparison": "A stronger, richer, more full-bodied version of either a Dunkles Bock or a Helles Bock. Pale versions will show higher attenuation and less dark fruity character than the darker versions.",
   "characteristic_ingredients": "Pils and/or Vienna malt for pale versions (with some Munich), Munich and Vienna malts for darker ones and occasionally a tiny bit of darker color malts (such as Carafa). Saazer-type hops. Clean lager yeast. Decoction mashing is traditional.",
-  "overall_impression": "A strong, rich, and very malty German lager that can have both pale and dark variants. The darker versions have more richly-developed, deeper malt flavors, while the paler versions have slightly more hops and dryness."
+  "overall_impression": "A strong, rich, and very malty German lager that can have both pale and dark variants. The darker versions have more richly-developed, deeper malt flavors, while the paler versions have slightly more hops and dryness.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 3.5,
+    "body_average": 2.5
+  }
 }

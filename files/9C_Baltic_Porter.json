@@ -1,0 +1,62 @@
+{
+  "style_id": "9C",
+  "style_name": "Baltic Porter",
+  "aroma": "Rich malty sweetness often containing caramel, toffee, nutty to deep toast, and/or licorice notes. Complex alcohol and ester profile of moderate strength, and reminiscent of plums, prunes, raisins, cherries or currants, occasionally with a vinous Port-like quality. Some darker malt character that is deep chocolate, coffee or molasses but never burnt. No hops. No sourness. Very smooth.",
+  "appearance": "Dark reddish-copper to opaque dark brown (not black). Thick, persistent tan-colored head. Clear, although darker versions can be opaque.",
+  "flavor": "As with aroma, has a rich malty sweetness with a complex blend of deep malt, dried fruit esters, and alcohol. Has a prominent yet smooth schwarzbier-like roasted flavor that stops short of burnt. Mouth-filling and very smooth. Clean lager character. Starts sweet but darker malt flavors quickly dominates and persists through finish. Just a touch dry with a hint of roast coffee or licorice in the finish. Malt can have a caramel, toffee, nutty, molasses and/or licorice complexity. Light hints of black currant and dark fruits. Medium-low to medium bitterness from malt and hops, just to provide balance. Hop flavor from slightly spicy hops ranges from none to medium-low.",
+  "mouthfeel": "Generally quite full-bodied and smooth, with a well-aged alcohol warmth. Medium to medium-high carbonation, making it seem even more mouth-filling. Not heavy on the tongue due to carbonation level.",
+  "comments": "May also be described today as an Imperial Porter, although heavily roasted or hopped versions are not appropriate for this style. Most versions are in the 7-8.5% ABV range. Danish breweries often refer to them as Stouts, which indicates their historic lineage from the days when Porter was used as a generic name for Porter and Stout.",
+  "history": "Traditional beer from countries bordering the Baltic Sea, developed indigenously after higher-gravity export brown or imperial stouts from England were established. Historically top-fermented, many breweries adapted the recipes for bottom-fermenting yeast along with the rest of their production.",
+  "tags": [
+    "high-strength",
+    "dark-color",
+    "any-fermentation",
+    "lagered",
+    "eastern-europe",
+    "traditional-style",
+    "porter-family",
+    "malty"
+  ],
+  "category": "9",
+  "commercial_examples": [
+    "Aldaris Porteris",
+    "Baltika #6 Porter",
+    "Devils Backbone Danzig",
+    "Okocim Porter",
+    "Sinebrychoff Porter",
+    "Zywiec Porter"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.090",
+      "low": "1.060"
+    },
+    "FG": {
+      "high": "1.024",
+      "low": "1.016"
+    },
+    "IBUs": {
+      "high": "40",
+      "low": "20"
+    },
+    "SRM": {
+      "high": "30",
+      "low": "17"
+    },
+    "ABV": {
+      "high": "9.5",
+      "low": "6.5"
+    }
+  },
+  "style_comparison": "Much less roasted and smoother than an Imperial Stout, typically with less alcohol. Lacks the roasty qualities of stouts in general, more taking on the roasted-but-not-burnt characteristics of a schwarzbier. Quite fruity compared to other porters. Higher alcohol than other porters.",
+  "characteristic_ingredients": "Generally lager yeast (cold fermented if using ale yeast, as is required when brewed in Russia). Debittered chocolate or black malt. Munich or Vienna base malt. Continental hops (Saazer-type, typically). May contain crystal malts and/or adjuncts. Brown or amber malt common in historical recipes.",
+  "overall_impression": "A Baltic Porter often has the malt flavors reminiscent of an English porter and the restrained roast of a schwarzbier, but with a higher OG and alcohol content than either. Very complex, with multi-layered malt and dark fruit flavors.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 5,
+    "body_high": 5,
+    "carbonation_average": 3.5,
+    "body_average": 5
+  }
+}

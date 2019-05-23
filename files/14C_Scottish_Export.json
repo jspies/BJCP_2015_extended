@@ -1,0 +1,59 @@
+{
+  "style_id": "14C",
+  "style_name": "Scottish Export",
+  "aroma": "Low to medium maltiness, often with flavors of toasted breadcrumbs, lady fingers, and English biscuits. Low to medium caramel and low butterscotch is allowable. Light pome fruitiness in best examples. May have low traditional English hop aroma (earthy, floral, orange-citrus, spicy, etc.). Peat smoke is inappropriate.",
+  "appearance": "Pale copper to very dark brown. Clear. Low to moderate, creamy off-white head.",
+  "flavor": "Entirely malt-focused, with flavors ranging from pale, bready malt with caramel overtones to rich-toasty malt with roasted accents (but never roasty) or a combination thereof. Fruity esters are not required but add depth yet are never high. Hop bitterness to balance the malt. No to low hop flavor is also allowed and should of traditional English character (earthy, floral, orange-citrus, spicy, etc.). Finish ranges from rich and malty to dry and grainy. A subtle butterscotch character is acceptable; however, burnt sugars are not. The malt-hop balance tilts toward malt. Peat smoke is inappropriate.",
+  "mouthfeel": "Medium-low to medium body. Low to moderate carbonation. Can be relatively rich and creamy to dry and grainy.",
+  "comments": "Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via 'kettle caramelization' is not traditional nor is any blatantly 'butterscotch' character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a *Classic Style Smoked Beer.*",
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "top-fermented",
+    "british-isles",
+    "traditional-style",
+    "amber-ale-family",
+    "malty"
+  ],
+  "category": "14",
+  "commercial_examples": [
+    "Belhaven Scottish Ale",
+    "Broughton Exciseman's Ale",
+    "Orkney Dark Island",
+    "Pelican MacPelican's Scottish Style Ale",
+    "Weasel Boy Plaid Ferret Scottish Ale"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.060",
+      "low": "1.040"
+    },
+    "FG": {
+      "high": "1.016",
+      "low": "1.010"
+    },
+    "IBUs": {
+      "high": "30",
+      "low": "15"
+    },
+    "SRM": {
+      "high": "22",
+      "low": "13"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "3.9"
+    }
+  },
+  "style_comparison": "Similar character to a Wee Heavy, but much smaller.",
+  "characteristic_ingredients": "Originally used Scottish pale malt, grits or flaked maize, and brewers caramel for color. Later adapted to use additional ingredients, such as amber and brown malts, crystal and wheat malts, and roasted grains or dark sugars for color but not for the 'roasty' flavor. Sugar adjuncts are traditional. Clean or slightly fruity yeast. Peat-smoked malt is inauthentic and inappropriate.",
+  "overall_impression": "A malt-focused, generally caramelly beer with perhaps a few esters and occasionally a butterscotch aftertaste. Hops only to balance and support the malt. The malt character can range from dry and grainy to rich, toasty, and caramelly, but is never roasty and especially never has a peat smoke character.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 2,
+    "body_average": 2.5
+  }
+}

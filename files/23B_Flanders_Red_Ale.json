@@ -1,0 +1,62 @@
+{
+  "style_id": "23B",
+  "style_name": "Flanders Red Ale",
+  "aroma": "Complex fruity-sour profile with supporting malt that often gives a wine-like impression. Fruitiness is high, and reminiscent of black cherries, oranges, plums or red currants. There are often low to medium-low vanilla and/or chocolate notes. Spicy phenols can be present in low amounts for complexity. The sour aroma ranges from balanced to intense. Prominent vinegary acetic character is inappropriate. No hop aroma. Diacetyl is perceived only in very minor quantities, if at all, as a complementary aroma.",
+  "appearance": "Deep red, burgundy to reddish-brown in color. Good clarity. White to very pale tan head. Average to good head retention.",
+  "flavor": "Intense fruitiness commonly includes plum, orange, black cherry or red currant flavors. A mild vanilla and/or chocolate character is often present. Spicy phenols can be present in low amounts for complexity. Sour flavor ranges from complementary to intense, and can have an acidic bite. Malty flavors range from complementary to prominent, and often have a soft toasty-rich quality. Generally as the sour character increases, the malt character blends to more of a background flavor (and vice versa). No hop flavor. Restrained hop bitterness. An acidic, tannic bitterness is often present in low to moderate amounts, and adds an aged red wine-like character and finish. Prominent vinegary acetic character is inappropriate. Diacetyl is perceived only in very minor quantities, if at all, as a complementary flavor. Balanced to the malt side, but dominated by the fruity, sour, wine-like impression.",
+  "mouthfeel": "Medium bodied. Low to medium carbonation. Low to medium astringency, like a well-aged red wine, often with a prickly acidity. Deceivingly light and crisp on the palate although a somewhat sweet finish is not uncommon.",
+  "comments": "Long aging and blending of young and well-aged beer often occurs, adding to the smoothness and complexity, though the aged product is sometimes released as a connoisseur's beer. Known as the Burgundy of Belgium, it is more wine-like than any other beer style. The reddish color is a product of the malt although an extended, less-than-rolling portion of the boil may help add an attractive Burgundy hue. Aging will also darken the beer. The Flanders red is more acetic (but never vinegar-like) and the fruity flavors more reminiscent of a red wine than an Oud Bruin. Can have an apparent attenuation of up to 98%.",
+  "history": "An indigenous beer of West Flanders, typified by the products of the Rodenbach brewery, established in 1820 in West Flanders but reflective of earlier brewing traditions. The beer is aged for up to two years, often in huge oaken barrels which contain the resident bacteria necessary to sour the beer. It was once common in Belgium and England to blend old beer with young to balance the sourness and acidity found in aged beer. While blending of batches for consistency is now common among larger breweries, this type of blending is a fading art.",
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "top-fermenting",
+    "western-europe",
+    "traditional-style",
+    "sour-ale-family",
+    "balanced",
+    "sour",
+    "wood"
+  ],
+  "category": "23",
+  "commercial_examples": [
+    "Cuvée des Jacobins Rouge",
+    "Duchesse de Bourgogne",
+    "Rodenbach Grand Cru",
+    "Rodenbach Klassiek",
+    "Vichtenaar Flemish Ale"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.057",
+      "low": "1.048"
+    },
+    "FG": {
+      "high": "1.012",
+      "low": "1.002"
+    },
+    "IBUs": {
+      "high": "25",
+      "low": "10"
+    },
+    "SRM": {
+      "high": "16",
+      "low": "10"
+    },
+    "ABV": {
+      "high": "6.5",
+      "low": "4.6"
+    }
+  },
+  "style_comparison": "Less malty-rich than an Oud Bruin, often with more of a fruity-tart profile.",
+  "characteristic_ingredients": "A base of Vienna and/or Munich malts, light to medium cara-malts, and a small amount of Special B are used with up to 20% maize. Low alpha acid continental hops are commonly used (avoid high alpha or distinctive American hops). Saccharomyces, Lactobacillus and Brettanomyces (and acetobacter) contribute to the fermentation and eventual flavor.",
+  "overall_impression": "A sour, fruity, red wine-like Belgian-style ale with interesting supportive malt flavors and fruit complexity. The dry finish and tannin completes the mental image of a fine red wine.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 2,
+    "body_average": 3
+  }
+}

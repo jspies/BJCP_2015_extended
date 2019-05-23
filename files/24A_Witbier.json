@@ -50,5 +50,13 @@
   },
   "style_comparison": "Low bitterness level with a balance similar to a Weissbier, but with spice and citrus character coming from additions rather than the yeast.",
   "characteristic_ingredients": "About 50% unmalted wheat and 50% pale barley malt (usually Pils malt) constitute the grist. In some versions, up to 5-10% raw oats may be used. Spices of freshly-ground coriander and Curaçao or sometimes sweet orange peel complement the sweet aroma and are quite characteristic. Other spices (e.g., chamomile, cumin, cinnamon, Grains of Paradise) may be used for complexity but are much less prominent. Ale yeast prone to the production of mild, spicy flavors is very characteristic. In some instances a very limited lactic fermentation, or the actual addition of lactic acid, is done.",
-  "overall_impression": "A refreshing, elegant, tasty, moderate-strength wheat-based ale."
+  "overall_impression": "A refreshing, elegant, tasty, moderate-strength wheat-based ale.",
+  "enhancements": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 2,
+    "body_high": 3,
+    "carbonation_average": 5,
+    "body_average": 2.5
+  }
 }

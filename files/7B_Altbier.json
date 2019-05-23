@@ -51,5 +51,13 @@
   },
   "style_comparison": "More bitter and malty than international amber lagers. Somewhat similar to California Common, both in production technique and finished flavor and color, though not in ingredients.",
   "characteristic_ingredients": "Grists vary, but usually consist of German base malts (usually Pils, sometimes Munich) with small amounts of crystal, chocolate, and/or black malts used to adjust color. Occasionally will include some wheat, including roasted wheat. Spalt hops are traditional, but other Saazer-type hops can also be used. Clean, highly attenuative ale yeast. A step mash or decoction mash program is traditional.",
-  "overall_impression": "A well-balanced, well-attenuated, bitter yet malty, clean, and smooth, amber- to copper-colored German beer. The bitterness is balanced by the malt richness, but the malt intensity and character can range from moderate to high (the bitterness increases with the malt richness)."
+  "overall_impression": "A well-balanced, well-attenuated, bitter yet malty, clean, and smooth, amber- to copper-colored German beer. The bitterness is balanced by the malt richness, but the malt intensity and character can range from moderate to high (the bitterness increases with the malt richness).",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 4,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 3.5,
+    "body_average": 3
+  }
 }

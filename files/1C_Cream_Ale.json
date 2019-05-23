@@ -1,0 +1,61 @@
+{
+  "style_id": "1C",
+  "style_name": "Cream Ale",
+  "aroma": "Medium-low to low malt notes, with a sweet, corn-like aroma. Low levels of DMS are allowable, but are not required. Hop aroma medium low to none, and can be of any variety although floral, spicy, or herbal notes are most common. Overall, a subtle aroma with neither hops nor malt dominating. Low fruity esters are optional.",
+  "appearance": "Pale straw to moderate gold color, although usually on the pale side. Low to medium head with medium to high carbonation. Fair head retention. Brilliant, sparkling clarity.",
+  "flavor": "Low to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well-attenuated. Neither malt nor hops dominate the palate. A low to moderate corny flavor is commonly found, as is light DMS (optional). Finish can vary from somewhat dry to faintly sweet. Low fruity esters are optional. Low to medium-low hop flavor (any variety, but typically floral, spicy, or herbal).",
+  "mouthfeel": "Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a \"thirst quenching\" quality. High carbonation.",
+  "comments": "Pre-prohibition Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the historical category. Most commercial examples are in the 1.050-1.053 OG range, and bitterness rarely rises above 20 IBUs.",
+  "history": "A sparkling or present-use ale that existed in the 1800s and survived prohibition. An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in Canada and the Northeast, Mid-Atlantic, and Midwest states. Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are kräusened to achieve carbonation. Cold conditioning isn't traditional, although modern brewers sometimes use it.",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "any-fermentation",
+    "north-america",
+    "traditional-style",
+    "pale-ale-family",
+    "balanced"
+  ],
+  "category": "1",
+  "commercial_examples": [
+    "Genesee Cream Ale",
+    "Liebotschaner Cream Ale",
+    "Little Kings Cream Ale",
+    "New Glarus Spotted Cow",
+    "Old Style",
+    "Sleeman Cream Ale"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.055",
+      "low": "1.042"
+    },
+    "IBUs": {
+      "high": "20",
+      "low": "8"
+    },
+    "FG": {
+      "high": "1.012",
+      "low": "1.006"
+    },
+    "SRM": {
+      "high": "5",
+      "low": "2.5"
+    },
+    "ABV": {
+      "high": "5.6",
+      "low": "4.2"
+    }
+  },
+  "style_comparison": "Similar to a Standard American Lager, but with more character.",
+  "characteristic_ingredients": "American ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% maize in the mash, and up to 20% glucose or other sugars in the boil. Any variety of hops can be used for bittering and finishing.",
+  "overall_impression": "A clean, well-attenuated, flavorful American \"lawnmower\" beer. Easily drinkable and refreshing, with more character than typical American lagers.",
+  "enhancements": {
+    "carbonation_low": 5,
+    "carbonation_high": 5,
+    "body_low": 1,
+    "body_high": 3,
+    "carbonation_average": 5,
+    "body_average": 2
+  }
+}

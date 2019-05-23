@@ -1,0 +1,62 @@
+{
+  "style_id": "25C",
+  "style_name": "Belgian Golden Strong Ale",
+  "aroma": "Complex with significant fruity esters, moderate spiciness and low to moderate alcohol and hop aromas. Esters are reminiscent of lighter fruits such as pears, oranges or apples. Moderate to moderately low spicy, peppery phenols. A low to moderate yet distinctive perfumy, floral hop character is often present. Alcohols are soft, spicy, perfumy and low-to-moderate in intensity. No hot alcohol or solventy aromas. The malt character is light and slightly grainy-sweet to nearly neutral.",
+  "appearance": "Yellow to medium gold in color. Good clarity. Effervescent. Massive, long-lasting, rocky, often beady, white head resulting in characteristic Belgian lace on the glass as it fades.",
+  "flavor": "Marriage of fruity, spicy and alcohol flavors supported by a soft malt character. Esters are reminiscent of pears, oranges or apples. Low to moderately low phenols are peppery in character. A low to moderate spicy hop character is often present. Alcohols are soft and spicy, and are low-to-moderate in intensity. Bitterness is typically medium to high from a combination of hop bitterness and yeast-produced phenolics. Substantial carbonation and bitterness leads to a dry finish with a low to moderately bitter aftertaste.",
+  "mouthfeel": "Very highly carbonated; effervescent. Light to medium body, although lighter than the substantial gravity would suggest. Smooth but noticeable alcohol warmth. No hot alcohol or solventy character.",
+  "comments": "References to the devil are included in the names of many commercial examples of this style, referring to their potent alcoholic strength and as a tribute to the original example (Duvel). The best examples are complex and delicate. High carbonation helps to bring out the many flavors and to increase the perception of a dry finish. Traditionally bottle-conditioned (or *refermented in the bottle*).",
+  "history": "Originally developed by the Moortgat brewery after WWI as a response to the growing popularity of Pilsner beers.",
+  "tags": [
+    "very-high-strength",
+    "pale-color",
+    "top-fermented",
+    "western-europe",
+    "traditional-style",
+    "bitter"
+  ],
+  "category": "25",
+  "commercial_examples": [
+    "Brigand",
+    "Delirium Tremens",
+    "Dulle Teve",
+    "Duvel",
+    "Judas",
+    "Lucifer",
+    "Piraat",
+    "Russian River Damnation"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.095",
+      "low": "1.070"
+    },
+    "FG": {
+      "high": "1.016",
+      "low": "1.005"
+    },
+    "IBUs": {
+      "high": "35",
+      "low": "22"
+    },
+    "SRM": {
+      "high": "6",
+      "low": "3"
+    },
+    "ABV": {
+      "high": "10.5",
+      "low": "7.5"
+    }
+  },
+  "style_comparison": "Strongly resembles a Tripel, but may be even paler, lighter-bodied and even crisper and drier; the drier finish and lighter body also serves to make the assertive hopping and yeast character more prominent. Tends to use yeast that favor ester development (particularly pome fruit) over spiciness in the balance.",
+  "characteristic_ingredients": "Pilsner malt with substantial sugary adjuncts. Saazer-type hops or Styrian Goldings are commonly used. Belgian yeast strains are used -- those that produce fruity esters, spicy phenolics and higher alcohols -- often aided by slightly warmer fermentation temperatures. Fairly soft water. Spicing is not traditional; if present, should be a background character only.",
+  "overall_impression": "A pale, complex, effervescent, strong Belgian-style ale that is highly attenuated and features fruity and hoppy notes in preference to phenolics.",
+  "enhancements": {
+    "carbonation_low": 6,
+    "carbonation_high": 6,
+    "body_low": 1,
+    "body_high": 3,
+    "carbonation_average": 6,
+    "body_average": 2
+  }
+}

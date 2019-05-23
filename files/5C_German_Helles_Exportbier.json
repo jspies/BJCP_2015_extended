@@ -1,0 +1,62 @@
+{
+  "style_id": "5C",
+  "style_name": "German Helles Exportbier",
+  "aroma": "Low to medium hop aroma, typically floral, spicy, or herbal in character. Moderate grainy-sweet malt aroma. Clean fermentation profile. A slight sulfury note at the start that dissipates is not a fault, neither is a low background note of DMS.",
+  "appearance": "Light gold to deep gold. Clear. Persistent white head.",
+  "flavor": "Neither grainy-sweet malt nor floral, spicy, or herbal hops dominate, but both are in good balance with a touch of malty sweetness, providing a smooth yet crisply refreshing beer. Balance continues through the finish and the hop bitterness lingers in aftertaste (although some examples may finish slightly sweet). Clean fermentation character. Some mineral character might be noted from the water, although it usually does not come across as an overt minerally flavor.",
+  "mouthfeel": "Medium body, medium carbonation. Smooth but crisp.",
+  "comments": "Sometimes known as Dortmunder or Dortmunder Export. Brewed to a slightly higher starting gravity than other light lagers, providing a firm malty body and underlying maltiness to complement the sulfate-accentuated hop bitterness. The term \"Export\" is a beer strength descriptor under German brewing tradition, and is not strictly synonymous with the \"Dortmunder\" style; beer from other cities or regions can be brewed to Export strength, and labeled as such (even if not necessarily exported).",
+  "history": "The Dortmunder style developed in the Dortmund industrial region in the 1870s in response to pale Pilsner-type beers, it became very popular after World War II but declined in the 1970s. Other Export-class beers developed independently, and reflected a slightly stronger version of existing beers. The modern German style is typically 12-13 °P.",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-lager-family",
+    "balanced"
+  ],
+  "category": "5",
+  "commercial_examples": [
+    "DAB Original",
+    "Dortmunder Kronen",
+    "Dortmunder Union Export",
+    "Flensburger Gold",
+    "Gordon Biersch Golden Export",
+    "Great Lakes Dortmunder Gold"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.056",
+      "low": "1.048"
+    },
+    "FG": {
+      "high": "1.015",
+      "low": "1.010"
+    },
+    "IBUs": {
+      "high": "30",
+      "low": "20"
+    },
+    "SRM": {
+      "high": "7",
+      "low": "4"
+    },
+    "ABV": {
+      "high": "6.0",
+      "low": "4.8"
+    }
+  },
+  "style_comparison": "Less finishing hops and more body than a Pils but more bitter than a Helles.",
+  "characteristic_ingredients": "Minerally water with high levels of sulfates, carbonates and chlorides, German or Czech noble hops, Pilsner malt, German lager yeast. Newer commercial versions can contain adjuncts and hop extract.",
+  "overall_impression": "A pale, well-balanced, smooth German lager that is slightly stronger than the average beer with a moderate body and a mild, aromatic hop and malt character.",
+  "enhancements": {
+    "carbonation_low": 3,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 3,
+    "body_average": 3
+  }
+}

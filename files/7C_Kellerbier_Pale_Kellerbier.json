@@ -1,0 +1,65 @@
+{
+  "style_name": "Kellerbier",
+  "substyle_name": "Pale Kellerbier",
+  "paragraph": "*A very common seasonal summer beer brewed by many of the Munich area breweries and served in the beer gardens, where they are very popular.*",
+  "aroma": "Moderately-low to moderately-high spicy, floral, or herbal hop aroma. Very low to moderate diacetyl, possible very low green apple or other yeast derived notes. Pleasantly grainy-sweet, clean malt aroma, with possible low background note of DMS.",
+  "appearance": "Slight haze to moderately cloudy, but never extremely cloudy or murky. Medium yellow to pale gold color. Creamy white head with good persistence. When served on cask, can have low carbonation and very low head.",
+  "flavor": "Moderately malty with a rounded, grainy-sweet profile. Low to moderately-high spicy, floral, or herbal hop flavor, with a moderate hop bitterness that can linger. Finish is crisp and dry, but the aftertaste remains malty. Very low to moderate diacetyl, which should always remain at a pleasant, drinkable level that balances somewhat with the other characteristics of the beer; overwhelming diacetyl is not appropriate. Possible very low green apple or other yeast derived notes, and possible low background note of DMS.",
+  "mouthfeel": "Medium body. Low to medium carbonation. Depending on the level of yeast in suspension, it may assist in creating a slightly creamy texture. A slight slickness on the tongue may be present from the diacetyl.",
+  "comments": "Most Pale Kellerbiers are young, unfiltered, unpasteurized versions of Munich Helles beer, although Pils or a different, custom golden lager beer designed specifically for serving young could also be used. The best examples are served only on tap at many of the Munich area breweries. Bottled versions are not likely to have the freshness, hop character and young beer notes exhibited by the draft versions.",
+  "history": "Modern adaptation from the traditional Franconian style, using Helles instead of Märzen. Today, a popular summer seasonal beer.",
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "central-europe",
+    "traditional-style",
+    "balanced",
+    "pale-lager-family"
+  ],
+  "category": "7",
+  "parent_style_id": "7C",
+  "commercial_examples": [
+    "Paulaner",
+    "Paulaner Brauhaus",
+    "Hofbrau",
+    "Tegernseer Tal",
+    "Ayinger Kellerbier",
+    "Hacker-Pschorr Munchner Kellerbier Anno 1417",
+    "Hofbrau Munchner Sommer Naturtrub",
+    "Wolnzacher Hell Naturtrüb"
+  ],
+  "vital_statistics": {
+    "OG": {
+      "high": "1.051",
+      "low": "1.045"
+    },
+    "FG": {
+      "high": "1.012",
+      "low": "1.008"
+    },
+    "IBUs": {
+      "high": "35",
+      "low": "20"
+    },
+    "SRM": {
+      "high": "7",
+      "low": "3"
+    },
+    "ABV": {
+      "high": "5.4",
+      "low": "4.7"
+    }
+  },
+  "style_comparison": "Most commonly, a young, unfiltered and unpasteurized version of a Munich Helles, though it can be a young, unfiltered and unpasteurized version of other golden German lagers, such as a Pilsner or a seasonal golden lager made specifically for serving young.",
+  "characteristic_ingredients": "Pilsner malt, German hops, German lager yeast; same as a Munich Helles.",
+  "overall_impression": "A young, fresh Helles, so while still a malty, fully-attenuated Pils malt showcase, the hop character (aroma, flavor and bitterness) is more pronounced, and the beer is cloudy, often with some level of diacetyl, and possibly has some green apple and/or other yeast-derived notes. As with the traditional Helles, the Keller version is still a beer intended to be drunk by the liter, so overall it should remain a light, refreshing, easy drinking golden lager.",
+  "enhancements": {
+    "carbonation_low": 1,
+    "carbonation_high": 3,
+    "body_low": 3,
+    "body_high": 3,
+    "carbonation_average": 2,
+    "body_average": 3
+  }
+}

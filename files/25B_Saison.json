@@ -74,5 +74,13 @@
   },
   "style_comparison": "At standard strengths and pale color (the most common variety), like a more highly-attenuated, hoppy, and bitter Belgian blond ale with a stronger yeast character. At super strength and pale color, similar to a Belgian tripel, but often with more of a grainy, rustic quality and sometimes with a spicier yeast character.",
   "characteristic_ingredients": "Not typically spiced, with the yeast, hops and grain providing the character; but spices are allowed if they provide a complementary character. Continental base malts are typical, but the grist frequently contains other grains such as wheat, oats, rye, or spelt. Adjuncts such as sugar and honey can also serve to add complexity and dry out the beer. Darker versions will typically use richer, darker malts, but not typically roasted types. Saazer-type, Styrian or East Kent Golding hops are commonly used. A wide range of herbs or spices can add complexity and uniqueness, but should always meld well with the yeast and hop character. Brettanomyces is not typical for this style; Saisons with Brett should be entered in the *American Wild Ale *category.",
-  "overall_impression": "Most commonly, a pale, refreshing, highly-attenuated, moderately-bitter, moderate-strength Belgian ale with a very dry finish. Typically highly carbonated, and using non-barley cereal grains and optional spices for complexity, as complements the expressive yeast character that is fruity, spicy, and not overly phenolic. Less common variations include both lower-alcohol and higher-alcohol products, as well as darker versions with additional malt character."
+  "overall_impression": "Most commonly, a pale, refreshing, highly-attenuated, moderately-bitter, moderate-strength Belgian ale with a very dry finish. Typically highly carbonated, and using non-barley cereal grains and optional spices for complexity, as complements the expressive yeast character that is fruity, spicy, and not overly phenolic. Less common variations include both lower-alcohol and higher-alcohol products, as well as darker versions with additional malt character.",
+  "enhancements": {
+    "carbonation_low": 6,
+    "carbonation_high": 6,
+    "body_low": 1,
+    "body_high": 3,
+    "carbonation_average": 6,
+    "body_average": 2
+  }
 }
